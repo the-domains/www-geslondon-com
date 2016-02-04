@@ -1,13 +1,26 @@
+typography_spectrum: 0.4212766
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 layout_spectrum: 0
 color:
   saturation: 0.2610157
-  brandStrength: 0.3553191
+  brandStrength: 0.393617
   lightness: 0.2128263
   brandColors:
-    - '#000101'
+    - '#000000'
+    - '#99FF00'
     - '#FFFFFF'
-    - '#E31F26'
-    - '#A6CE39'
-    - '#808285'
+    - '#FF0000'
+    - '#29C5FA'
   rhythmicContrast: 0.2599895
-typography_spectrum: 0.4212766
+name: www.geslondon.com
